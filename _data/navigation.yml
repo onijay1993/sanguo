@@ -1,0 +1,32 @@
+# main links
+main:
+  - title: "首页"
+    url: https://onijay1993.github.io/JiaMiSanGuoZhi/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+  - title: "关于我们"
+    url: /about
+  - title: "问题咨询"
+    url: /qa
+
+docs:
+  - title: "游戏玩法"
+    children: 
+      - title: "游戏简介"
+        url: /heroWiki
+      - title: "英雄介绍"
+        url: /heroWiki
+      - title: "装备介绍"
+      - title: "剧情玩法"
+      - title: "巅峰对决"
+      - title: "交易市场"
+
+  - title: "运营公告"
+    children: 
+      - title: "预售规则"
