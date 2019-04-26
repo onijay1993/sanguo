@@ -16,7 +16,7 @@ main:
     url: /qa
 
 docs:
-  - title: "游戏玩法"
+  - title: "游戏攻略"
     children: 
       - title: "游戏简介"
         url: /heroWiki
